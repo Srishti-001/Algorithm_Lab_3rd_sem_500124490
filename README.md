@@ -10,7 +10,7 @@ Lab 3: Strassen’s Matrix Multiplication vs Traditional Matrix Multiplication
 This folder includes implementations of the Strassen method of matrix multiplication and the traditional method. Their performances are compared for different matrix sizes. The Python code shows visual output for the matrices. Screenshots of performance comparisons and graph visualizations are included.
 
 Lab 4: Activity Selection Problem (Greedy Approach)
-This folder demonstrates the implementation of the Activity Selection Problem using a greedy approach. The solution selects the maximum number of compatible activities. The Python code visualizes the selected activities. Graph screenshots and C code output comparisons are provided.
+This folder demonstrates the implementation of the Activity Selection Problem using a greedy approach. The solution selects the maximum number of compatible activities, C code output comparisons are provided.
 
 Lab 5: Matrix Chain Multiplication (Dynamic Programming)
 This folder contains the implementation of the Matrix Chain Multiplication problem using dynamic programming. It also illustrates the impact of parenthesis positioning on the time complexity. The Python code visualizes matrix operations based on input. Screenshots of performance results and graphs are included.
